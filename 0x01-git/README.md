@@ -1,1 +1,1 @@
-Non empty readme
+Geting started with git
